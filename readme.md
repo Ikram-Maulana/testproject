@@ -1,7 +1,7 @@
 **This is a readme file.**
 
 1. create empty repo
-2. git init folder in local
+2. make folder in local
 3. git init
 4. make changes
 5. git add .
