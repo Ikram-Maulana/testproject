@@ -9,5 +9,19 @@
 7. git remote add origin https://github.com/Ikram-Maulana/testproject.git (only first time)
 8. git push -u origin master
 
-- git pull
-- git checkout branchname
+========================================================================================
+
+1. create a branch
+2. git pull
+3. git checkout branchname
+4. made changes
+5. git add .
+6. git commit -m "text"
+7. git push
+
+**-Compare & pull request**
+**-pull request**
+**-merge pull request**
+**-change are reflected to master**
+
+========================================================================================
